@@ -107,5 +107,8 @@
         "vuepress-plugin-typedoc": "^0.10.0",
         "vuepress-theme-chartjs": "^0.2.0",
         "yargs": "^17.0.1"
-    }
+    },
+  "publishConfig": {
+    "registry": "https://repo.micord.ru/repository/npm-private/"
+  }
 }
